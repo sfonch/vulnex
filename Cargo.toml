@@ -1,0 +1,13 @@
+[package]
+name = "vulnex"
+version = "0.0.1"
+edition = "2024"
+description = "Rust crate for making games"
+license = "MIT"
+
+[dependencies]
+glow = "0.14.2"
+glutin = "0.32.3"
+raw-window-handle = "0.6.2"
+tao = "0.35.0"
+three-d = "0.18.2"
